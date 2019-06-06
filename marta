@@ -11,6 +11,21 @@ Status: RO
 
 adeu
 
+--000000000000f5e408058aa3499d--
+--000000000000f5e40c058aa3499f
+Content-Type: application/pdf; name="adjunto.pdf"
+Content-Disposition: attachment; filename="adjunto.pdf"
+Content-Transfer-Encoding: base64
+X-Attachment-Id: f_jwkdw17i1
+Content-ID: <f_jwkdw17i1>
+
+
+--000000000000f5e40c058aa3499f
+Content-Type: image/jpeg; name="imagen.jpg"
+Content-Disposition: attachment; filename="imagen.jpg"
+Content-Transfer-Encoding: base64
+X-Attachment-Id: f_jwkdw16x0
+Content-ID: <f_jwkdw16x0>
 
 From isx47262285@i15.informatica.escoladeltreball.org  Fri Mar 16 12:39:21 2018
 Return-Path: <isx47262285@i15.informatica.escoladeltreball.org>
@@ -38,4 +53,20 @@ Content-Type: text/plain; charset=us-ascii
 Status: RO
 
 provando
+
+--000000000000f5e408058aa3499d--
+--000000000000f5e40c058aa3499f
+Content-Type: application/pdf; name="adjunto.pdf"
+Content-Disposition: attachment; filename="adjunto.pdf"
+Content-Transfer-Encoding: base64
+X-Attachment-Id: f_jwkdw17i1
+Content-ID: <f_jwkdw17i1>
+
+
+--000000000000f5e40c058aa3499f
+Content-Type: image/jpeg; name="imagen.jpg"
+Content-Disposition: attachment; filename="imagen.jpg"
+Content-Transfer-Encoding: base64
+X-Attachment-Id: f_jwkdw16x0
+Content-ID: <f_jwkdw16x0>
 
