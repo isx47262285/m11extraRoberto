@@ -1,4 +1,4 @@
-FROM fedora:28
+FROM fedora:27
 LABEL author="roberto@edt M11"
 LABEL description="extra Server pop "
 RUN dnf -y install telnet xinetd iproute iputils nmap uw-imap procps net-tools passwd  openssh-server 
